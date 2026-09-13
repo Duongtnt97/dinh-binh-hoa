@@ -1,0 +1,5 @@
+- Prefers to communicate in Vietnamese (e.g., wrote "xoa branch master" rather than English). Confidence: 0.7
+- Communicates in terse, shorthand command form (e.g., "cm -m add minimap hs, then push main"). Confidence: 0.7
+- Prefers lowercase, terse imperative commit messages used as-is (e.g., "add minimap hs"). Confidence: 0.6
+- Workflow: after making changes, commit then push to the main branch. Confidence: 0.6
+- Prefers using the `autoskills` tool (`npx autoskills`, from agentskill.sh) to auto-detect the tech stack and install matching skills. Confidence: 0.6
