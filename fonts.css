@@ -1,14 +1,14 @@
 @font-face {
    font-family: "Be Vietnam Pro SemiBold";
-   src: url("fonts/Be Vietnam Pro SemiBold.woff2") format("woff2");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Be Vietnam Pro SemiBold";
    src: url("fonts/Be Vietnam Pro SemiBold Italic.woff2") format("woff2");
    font-weight: bold;
    font-style: italic;
+}
+@font-face {
+   font-family: "Be Vietnam Pro SemiBold";
+   src: url("fonts/Be Vietnam Pro SemiBold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
 }
 @font-face {
    font-family: "Be Vietnam Pro Medium";
