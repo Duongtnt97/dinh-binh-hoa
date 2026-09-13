@@ -1,0 +1,9 @@
+Cursor set notes
+================
+
+Directional arrows (N/NE/E/SE/S/SW/W/NW + F* fast variants): original artwork
+created for this project, free to use.
+
+grab.cur (open hand) and grabbing.cur (closed hand): derived from Google
+Material Symbols icons "pan_tool" and "back_hand",
+https://fonts.google.com/icons — licensed under the Apache License 2.0.
