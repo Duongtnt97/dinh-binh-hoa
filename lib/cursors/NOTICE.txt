@@ -4,6 +4,5 @@ Cursor set notes
 Directional arrows (N/NE/E/SE/S/SW/W/NW + F* fast variants): original artwork
 created for this project, free to use.
 
-grab.cur (open hand) and grabbing.cur (closed hand): derived from Google
-Material Symbols icons "pan_tool" and "back_hand",
-https://fonts.google.com/icons — licensed under the Apache License 2.0.
+grab.cur and grabbing.cur: from "W11 Cursor Light Free" by Jepri Creations
+(Windows 11 Cursors Concept), https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-886489356
